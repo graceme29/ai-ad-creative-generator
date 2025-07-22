@@ -1,4 +1,3 @@
-# ai-ad-creative-generator
 ai-ad-creative-generator/
 ├── backend/
 │   ├── server.js
